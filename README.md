@@ -1,4 +1,3 @@
 # Admission-Management-System
 
-This system takes student details like (Student Name, jee main mark, personal details and three top priority branch ), and compare the jee main mark with the cutoff mark and show for which branch you are eligible
-Technology Used: HTML, CSS and java script
+Developed a web-based Admission Management System using HTML, CSS, and JavaScript to streamline student admissions. The system features a responsive interface for entering student details, processing applications based on set criteria, and displaying course information with pricing. Key aspects include dynamic content, form handling, and mobile-friendly design, showcasing front-end development skills.
